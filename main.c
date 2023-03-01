@@ -89,7 +89,7 @@ void processing_file_menu(bahan* bahan_bahan, int jumlah_bahan){
     scanf(" %[^\n]", nama_menu);
 
     file_menu=fopen(nama_file, "r");
-    while(fgets(line, 255, file_menu)){
+    while(fgets(line, 30, file_menu)){
         koma = 0;
         for(i=0; i<strlen(line); i++){
             if(line[i]==','){
