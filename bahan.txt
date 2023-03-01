@@ -1,0 +1,32 @@
+Tomat,08/03/2023
+Wortel,08/03/2023
+Sawi,08/03/2023
+Kol,06/03/2023
+Ayam,06/03/2023
+Udang,08/03/2023
+Ikan tuna,08/03/2023
+Daging sapi,06/03/2023
+Cabai merah,10/03/2023
+Jagung,05/03/2023
+Susu kental manis,10/10/2023
+Santan,08/03/2023
+Bawang merah,10/03/2023
+Bawang putih,10/03/2023
+Bawang bombay,10/03/2023
+Seledri,10/03/2023
+Daun bawang,10/03/2023
+Terong,03/03/2023
+Minyak,10/12/2023
+Garam,12/10/2024
+Gula pasir,12/10/2024
+Lada bubuk,12/10/2024
+Kayu manis,03/04/2023
+Cengkeh,03/04/2023
+Kapulaga,03/04/2023
+Kunyit bubuk,03/09/2023
+Daun salam,03/03/2023
+Sereh,03/03/2023
+Saus tiram,03/09/2023
+Kembang kol,03/03/2023
+Jamur kuping,03/03/2023
+Kentang,08/03/2023

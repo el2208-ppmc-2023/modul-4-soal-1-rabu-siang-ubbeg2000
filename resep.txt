@@ -1,0 +1,7 @@
+Sup ayam:Ayam,Wortel,Kol,Daun bawang,Seledri,Jamur kuping,Cengkeh,Lada bubuk,Kapulaga,Kayu manis,Garam,Gula pasir,Minyak,Kentang,Bawang merah,Bawang putih
+Sup sapi:Daging sapi,Wortel,Kol,Daun bawang,Seledri,Cengkeh,Lada bubuk,Kapulaga,Kayu manis,Garam,Gula pasir,Minyak,Kentang,Bawang merah,Bawang putih
+Terong balado:Terong,Bawang merah,Bawang putih,Cabai merah,Tomat,Garam,Gula pasir,Minyak
+Sup jagung:Jagung,Santan,Gula pasir,Tepung maizena
+Udang balado:Udang,Kentang,Minyak,Garam,Gula pasir,Cabai merah,Bawang merah,Bawang putih,Tomat
+Capcay:Udang,Kol,Kembang kol,Wortel,Daun bawang,Bawang merah,Bawang putih,Cabai merah,Garam,Gula pasir,Minyak,Saus tiram
+Ayam balado:Ayam,Minyak,Garam,Gula pasir,Cabai merah,Bawang merah,Bawang putih,Tomat,Sereh,Kunyit bubuk,Daun salam,Jahe,Lengkuas
