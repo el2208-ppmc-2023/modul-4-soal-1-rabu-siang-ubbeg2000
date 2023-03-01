@@ -5,7 +5,7 @@
       "setup": "make main",
       "run": "./main",
       "input": "bahan.txt\r\n04/03/2023\r\nresep.txt\r\nSup ayam",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Jamur kuping",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Jamur kuping",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "",
       "run": "./main",
       "input": "bahan.txt\r\n03/03/2023\r\nresep.txt\r\nSup ayam",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Jamur kuping",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Jamur kuping",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./main",
       "input": "bahan.txt\r\n09/03/2023\r\nresep.txt\r\nTerong Balado",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Terong\r\n2. Tomat",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Terong\r\n2. Tomat",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "./main",
       "input": "bahan.txt\r\n03/03/2023\r\nresep.txt\r\nSup jagung",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Tepung maizena",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Tepung maizena",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "",
       "run": "./main",
       "input": "bahan.txt\r\n10/03/2023\r\nresep.txt\r\nUdang balado",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Udang\r\n2. Kentang\r\n3. Cabai merah\r\n4. Bawang merah\r\n5. Bawang putih\r\n6. Tomat",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Udang\r\n2. Kentang\r\n3. Cabai merah\r\n4. Bawang merah\r\n5. Bawang putih\r\n6. Tomat",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "",
       "run": "./main",
       "input": "bahan.txt\r\n10/05/2023\r\nresep.txt\r\nCapcay",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Udang\r\n2. Kol\r\n3. Kembang kol\r\n4. Wortel\r\n5. Daun bawang\r\n6. Bawang merah\r\n7. Bawang putih\r\n8. Cabai merah",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Udang\r\n2. Kol\r\n3. Kembang kol\r\n4. Wortel\r\n5. Daun bawang\r\n6. Bawang merah\r\n7. Bawang putih\r\n8. Cabai merah",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "",
       "run": "./main",
       "input": "bahan.txt\r\n01/03/2023\r\nresep.txt\r\nAyam balado",
-      "output": "Anda perlu membeli bahan makanan berikut untuk mebuat menu yang Anda pilih: \r\n1. Jahe\r\n2. Lengkuas",
+      "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Jahe\r\n2. Lengkuas",
       "comparison": "included",
       "timeout": 1,
       "points": 10
