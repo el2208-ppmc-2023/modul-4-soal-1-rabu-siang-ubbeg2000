@@ -24,9 +24,9 @@ bahan* processing_file_bahan(bahan* bahan_bahan, int* jumlah_bahan){
     int n = 0, hari, bulan, tahun, hari_ini, bulan_ini, tahun_ini;
 
     printf("Masukkan nama file bahan: ");
-    scanf("%s", &nama_file);
+    scanf("%s", nama_file);
     printf("Masukkan tanggal hari ini (ex: 10 Februari 2023->10/02/2023): ");
-    scanf("%s", &tanggal_hari_ini);
+    scanf("%s", tanggal_hari_ini);
 
     token = strtok(tanggal_hari_ini,"/");
     hari_ini = atoi(token);
@@ -84,9 +84,9 @@ void processing_file_menu(bahan* bahan_bahan, int jumlah_bahan){
     int ada_menu = 0, i = 0, j = 0, koma = 0;
 
     printf("Masukan nama file resep: ");
-    scanf("%s", &nama_file);
+    scanf("%s", nama_file);
     printf("Masukan nama menu: ");
-    scanf(" %[^\n]", &nama_menu);
+    scanf(" %[^\n]", nama_menu);
 
     file_menu=fopen(nama_file, "r");
     while(fgets(line, 255, file_menu)){
