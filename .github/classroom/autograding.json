@@ -34,7 +34,7 @@
       "name": "4",
       "setup": "",
       "run": "./main",
-      "input": "bahan.txt\r\n09/03/2023\r\nresep.txt\r\nTerong Balado",
+      "input": "bahan.txt\r\n09/03/2023\r\nresep.txt\r\nTerong balado",
       "output": "Anda perlu membeli bahan makanan berikut untuk membuat menu yang Anda pilih: \r\n1. Terong\r\n2. Tomat",
       "comparison": "included",
       "timeout": 1,
