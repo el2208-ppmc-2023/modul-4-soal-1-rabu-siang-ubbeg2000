@@ -78,7 +78,7 @@ bahan* processing_file_bahan(bahan* bahan_bahan, int* jumlah_bahan){
 void processing_file_menu(bahan* bahan_bahan, int jumlah_bahan){
     FILE* file_menu;
     char nama_file[255]; //asumsi nama file tidak akan lebih dari 255 karakter
-    char line[30]; //asumsi satu baris dalam file tidak akan lebih dari 30 karakter
+    char line[255]; //asumsi satu baris dalam file tidak akan lebih dari 30 karakter
     char* token;
     char nama_menu[30]; //asumsi nama menu tidak lebih dari 30 karakter
     int ada_menu = 0, i = 0, j = 0, koma = 0;
@@ -89,7 +89,7 @@ void processing_file_menu(bahan* bahan_bahan, int jumlah_bahan){
     scanf(" %[^\n]", nama_menu);
 
     file_menu=fopen(nama_file, "r");
-    while(fgets(line, 30, file_menu)){
+    while(fgets(line, 255, file_menu)){
         koma = 0;
         for(i=0; i<strlen(line); i++){
             if(line[i]==','){
