@@ -105,6 +105,7 @@ void processing_file_menu(bahan* bahan_bahan, int jumlah_bahan){
             for(i=0; i<=koma; i++){
                 if(i==koma){
                     token = strtok(NULL,"\n");
+                    token[strlen(token) - 1] = '\0';
                 }
                 else {
                     token = strtok(NULL,",");
